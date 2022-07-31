@@ -1,0 +1,12 @@
+body{
+    font-size: 20px;
+    background-color: blanchedalmond;
+}
+#logo{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+nav{
+    display:block;
+}
